@@ -6,3 +6,4 @@ sum = a+b
 mul= a*b
 print(sum,", ",mul)
 print(sum+mul)
+print("Hero Hiralal")
